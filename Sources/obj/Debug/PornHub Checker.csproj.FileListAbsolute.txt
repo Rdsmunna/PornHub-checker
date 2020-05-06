@@ -1,0 +1,12 @@
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\bin\Debug\PornHub Checker.exe.config
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\bin\Debug\PornHub Checker.exe
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\bin\Debug\PornHub Checker.pdb
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\bin\Debug\xNet.dll
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub_Checker.PrnHubFrm.resources
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub_Checker.Properties.Resources.resources
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub Checker.csproj.GenerateResource.cache
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub Checker.csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub Checker.csproj.CopyComplete
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub Checker.exe
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub Checker.pdb
+C:\Users\steal\source\repos\PornHub Checker\PornHub Checker\obj\Debug\PornHub Checker.csprojAssemblyReference.cache
