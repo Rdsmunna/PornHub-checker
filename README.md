@@ -34,6 +34,4 @@ VT: https://www.virustotal.com/gui/file/641e6e430f80b45d181349a9f41ab30f582be71d
 -Code component changed (Now it’s easier to read the code!)
 
 # Thanks
-Thx @r3xq1 for the support and advice.
-
 Thanks to everyone who tells me about errors and uses the program. Let's continue to develop together.
