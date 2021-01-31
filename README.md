@@ -35,3 +35,7 @@ VT: https://www.virustotal.com/gui/file/641e6e430f80b45d181349a9f41ab30f582be71d
 
 # Thanks
 Thanks to everyone who tells me about errors and uses the program. Let's continue to develop together.
+
+# Support
+Hi! You can supp me https://www.donationalerts.com/r/YatoSimidzu
+Thx you!
